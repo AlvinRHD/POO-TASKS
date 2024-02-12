@@ -1,2 +1,2 @@
 # POO-TASKS
-Repositorio de todas las tareas de POO
+Alvin Ezequiel Rosales Hernández - U20230560 - Ejercicio 3 Cajero Automatico
